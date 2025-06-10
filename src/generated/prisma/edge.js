@@ -140,7 +140,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/bradtraversy/dev/quick-ticket/src/generated/prisma",
+      "value": "C:\\Users\\damie\\Desktop\\quick-ticket\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -149,17 +149,16 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "darwin",
+        "value": "windows",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/bradtraversy/dev/quick-ticket/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\damie\\Desktop\\quick-ticket\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": null,
-    "schemaEnvPath": "../../../.env"
+    "rootEnvPath": null
   },
   "relativePath": "../../../prisma",
   "clientVersion": "6.6.0",
